@@ -1,0 +1,3 @@
+enum LocalizationSource {
+  local, remote
+}
